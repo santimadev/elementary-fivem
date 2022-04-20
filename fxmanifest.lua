@@ -1,4 +1,4 @@
-fx_version 'bodacious'
+fx_version 'cerulean'
 game 'gta5'
 
 name 'FiveM Typescript Boilerplate'
@@ -8,3 +8,12 @@ url 'https://github.com/d0p3t/fivem-ts-boilerplate'
 
 client_script 'dist/client/*.client.js'
 server_script 'dist/server/*.server.js'
+
+ui_page 'ui/public/index.html'
+
+files {
+    'ui/public/index.html',
+    'ui/public/build/bundle.css',
+    'ui/public/build/bundle.js',
+    'ui/public/global.css'
+}

@@ -1,0 +1,5 @@
+{
+    "INVALID_VEHICLE_MODEL": "Vehículo no encontrado",
+    "VEHICLE_SUCCESSFULLY_SPAWNED": "¡Conduce con cuidado!",
+    "MISSING_ARGUMENT": "Introduzca un argumento para el comando"
+}
